@@ -2955,6 +2955,12 @@ input, select, textarea {
 
 		}
 
+/* Responsive images */
+.responsive {
+	max-width: 100%;
+	height: auto;
+}
+
 /* Spotlight */
 
 	.spotlight {
